@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/souqCar-react/static/css/main.0743d98b.css",
+    "main.js": "/souqCar-react/static/js/main.895037d2.js",
+    "static/js/453.ad6eb26e.chunk.js": "/souqCar-react/static/js/453.ad6eb26e.chunk.js",
+    "static/media/fa-solid-900.ttf": "/souqCar-react/static/media/fa-solid-900.42c745469c29afbc4e98.ttf",
+    "static/media/gg_xubjnj.png": "/souqCar-react/static/media/gg_xubjnj.27b7abe864afc48e0fe0.png",
+    "static/media/fa-brands-400.ttf": "/souqCar-react/static/media/fa-brands-400.4e755efff9e2ad0cc4ce.ttf",
+    "static/media/fa-solid-900.woff2": "/souqCar-react/static/media/fa-solid-900.a4453cdb966b98ed8801.woff2",
+    "static/media/fa-brands-400.woff2": "/souqCar-react/static/media/fa-brands-400.265683c169acc4399fe4.woff2",
+    "static/media/fa-regular-400.ttf": "/souqCar-react/static/media/fa-regular-400.fca1ba8756e66eb24cc3.ttf",
+    "static/media/fa-regular-400.woff2": "/souqCar-react/static/media/fa-regular-400.1bb9d91b4e86ea5158e6.woff2",
+    "static/media/fa-v4compatibility.ttf": "/souqCar-react/static/media/fa-v4compatibility.c230767394a35143968f.ttf",
+    "static/media/fa-v4compatibility.woff2": "/souqCar-react/static/media/fa-v4compatibility.eac4dbb6d61d3a73befd.woff2",
+    "static/media/slick.svg": "/souqCar-react/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/souqCar-react/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/souqCar-react/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/souqCar-react/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/souqCar-react/index.html",
+    "main.0743d98b.css.map": "/souqCar-react/static/css/main.0743d98b.css.map",
+    "main.895037d2.js.map": "/souqCar-react/static/js/main.895037d2.js.map",
+    "453.ad6eb26e.chunk.js.map": "/souqCar-react/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0743d98b.css",
+    "static/js/main.895037d2.js"
+  ]
+}
