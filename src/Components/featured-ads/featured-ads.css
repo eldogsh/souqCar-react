@@ -1,0 +1,27 @@
+.explantionOfUse {
+    background: #888 url("https://res.cloudinary.com/dh0kvk4g5/image/upload/v1694462689/covers%20and%20logos/P90492183_highRes_bmw-i7-xdrive60-m-sp_l08hdz.avif") no-repeat center/cover;
+    background-blend-mode: multiply;
+    height: 94%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    border-radius: 15px;
+    transition-duration: 15;
+    transition-delay: 0.2s;
+    transition-property: margin-left margin-top;
+    transition-timing-function: linear;
+}
+.bt{
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(83, 21, 184);
+    font-size: 32px;
+    color: aquamarine;
+    font-weight: 800;
+    border-radius: 30px;
+    margin: 20px;
+    letter-spacing: 9px;
+}

@@ -1,0 +1,50 @@
+#link {
+    font-size: 25px;
+    padding: 7px;
+    color: var(--font-color);
+    background-color: (--gray-color) !important;
+    text-decoration: none;
+
+}
+
+.linkk {
+    border-bottom: 2px solid blue;
+    transition: 0.001s all;
+    color: rgb(255, 119, 0);
+    text-decoration: none;
+}
+
+#link:hover {
+
+    transition: 0.001s all;
+    color: rgb(255, 119, 0);
+    text-decoration: none;
+}
+
+#btnn {
+    background-color: blue;
+    color: var(--background-color);
+    padding: 5px;
+    padding-top: 4px;
+    border-radius: 8px;
+    font-size: 20px;
+    border: none;
+    font-weight: 800;
+}
+
+#btnn:hover {
+    background-color: orange;
+    transition: 0.2s all;
+    fill: chocolate;
+}
+
+.navbarStyle {
+    color: var(--font-color);
+    background-color: var(--gray-color);
+}
+
+#linkk {
+
+    font-size: 25px;
+    color: var(--font-color);
+}

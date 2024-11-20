@@ -1,0 +1,22 @@
+:root {
+    --font-color: #333;
+    --background-color: #f7f2f2f3;
+    --link-color: cornflowerblue;
+    --gray-color:#fff;
+    --background-color-hover:#99b5ff;
+    --background-color-main:#eee;
+    --icon-color:#afadad;
+    
+  }
+  
+  /* 2 */
+  [data-theme="dark"] {
+
+    --font-color: #cbc6c6;
+    --background-color: #111422;
+    --link-color: lightblue;
+    --gray-color:#1d2234;
+    --background-color-hover:#1a2034;
+    --background-color-main:#111317;
+    --icon-color:#222941;
+  }

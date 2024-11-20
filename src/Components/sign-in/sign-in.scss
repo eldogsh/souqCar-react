@@ -1,0 +1,75 @@
+.sign-in-container {
+    display: flex;
+    flex-direction: column;
+
+    p {
+        text-align: center;
+    }
+
+}
+
+
+#btn1 {
+    border-radius: 5px;
+    background-color: rgb(225, 9, 9);
+    color: white;
+    border: none;
+    width: 100%;
+}
+
+#btn1:hover {
+    background-color: rgb(182, 10, 10);
+    transition: .2s all;
+}
+
+#btn2 {
+    border-radius: 5px;
+    background-color: rgb(13, 106, 246);
+    color: white;
+    border: none;
+    width: 100%;
+}
+
+#btn2:hover {
+    background-color: rgb(12, 79, 180);
+    transition: .2s all;
+}
+
+#btn3 {
+    border-radius: 5px;
+    background-color: rgb(245, 161, 6);
+    color: white;
+    border: none;
+    width: 100%;
+}
+
+#btn3:hover {
+    background-color: rgb(173, 115, 7);
+    transition: .2s all;
+}
+
+#btn4 {
+    border-radius: 5px;
+    background-color: rgb(101, 102, 112);
+    color: white;
+    border: none;
+    width: 100%;
+}
+
+#btn4:hover {
+    background-color: rgb(21, 1, 1);
+    transition: .2s all;
+}
+
+#btn7 {
+    border-radius: 5px;
+    background-color: rgb(8, 8, 8);
+    color: white;
+    border: none;
+    width: 100%;
+}
+
+#btn7:hover {
+    background-color: rgb(34, 32, 32);
+    transition: .2s all;
+}

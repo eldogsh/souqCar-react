@@ -1,0 +1,8 @@
+#linkcolor:hover {
+    color: orange;
+}
+
+#theme2 {
+    background-color: var(--gray-color);
+    color: var(--font-color);
+}

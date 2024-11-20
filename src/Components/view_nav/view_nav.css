@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+.filter {
+    display: none;
+}
+
+.theme {
+    background-color: var(--gray-color);
+    color: var(--font-color);
+}
+
+
+@media (max-width: 991px) {
+    .display {
+        display: none;
+    }
+
+    .activeFilter {
+        position: fixed;
+        padding-top: 15px;
+        height: 100vh;
+        background-color: var(--background-color);
+        z-index: 8;
+        display: block !important;
+    }
+
+    .filter {
+        display: flex;
+
+        border: 2px solid rgb(0, 0, 255);
+        border-radius: 5px;
+        font-weight: 500;
+        color: var(--font-color);
+    }
+
+    .cardc {
+        border-color: blue;
+        color: blue;
+    }
+}

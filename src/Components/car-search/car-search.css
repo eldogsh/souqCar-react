@@ -1,0 +1,79 @@
+.parentContainer {
+    position: relative;
+    margin-bottom: -120px;
+}
+
+.carouselRow {
+    position: static;
+    z-index: 1;
+}
+
+.inputRow {
+    z-index: 3;
+    position: relative;
+    top: -40px;
+
+}
+
+.carouselImge {
+    border-radius: 13px;
+}
+
+.titleOfInputs {
+    margin: 0 auto;
+    width: 20%;
+    background-color: #f2f5ff;
+    color: var(--font-color);
+    border-radius: 20px 20px 0 0;
+    font-size: 23px;
+    font-weight: bold;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 2px 2px 10px 0px #0000003d;
+    background-color: var(--gray-color);
+}
+
+.divInput {
+    display: block;
+    margin: 0 auto;
+    background-color: white;
+    height: 250px;
+    width: 75%;
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px 0px #0000003d;
+    background-color: var(--background-color);
+    color: var(--font-color);
+}
+
+.buttonClass {
+    background-color: #f2f5ff;
+    height: 40px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    background-color: var(--gray-color);
+    color: var(--font-color);
+
+}
+
+.buttonClass:hover {
+    border: 3px solid rgb(41, 41, 48);
+}
+
+@media (min-width:600px) {
+    .carouselRow {
+        position: relative;
+        z-index: 1;
+    }
+
+    .inputRow {
+        z-index: 3;
+        position: relative;
+        top: -120px;
+
+    }
+}
