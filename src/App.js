@@ -32,8 +32,6 @@ function App() {
      <NavigationBar />
      <SaveAddContextProvider>
        <Routes>
-         <Route path="*" element={"NOT FOUND"} />
-         <Route path="/" element={<MainPage />} />
          <Route path="/MainPage" element={<MainPage />} />
          <Route path="/SalePage" element={<BuyCarsPage />} />
          <Route path="/CarRental" element={<CarRental />} />
